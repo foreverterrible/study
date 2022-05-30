@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./forever"
+	"study/forever"
 )
 
 func main() {
