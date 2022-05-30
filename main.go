@@ -1,12 +1,12 @@
 package main
 
 import (
-	"fmt"
-
-	"study/forever"
+	"study/golangjson"
 )
 
 func main() {
-	fmt.Println("Hello!")
-	forever.Test()
+	//fmt.Println("Hello!")
+	//forever.Test()
+	golangjson.CreateJson()
+	golangjson.CreateJsonBeautify()
 }
